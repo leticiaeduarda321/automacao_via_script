@@ -19,4 +19,4 @@ else
 echo "tente de novo"
 fi
 
-#Pedro Henrique Pereira Facundo
+#Pedro Henrique Pereira Facundo #mudei o script 
